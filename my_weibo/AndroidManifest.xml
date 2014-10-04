@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example"
+    package="com.coderdream.weibo"
     android:versionCode="1"
     android:versionName="1.0" >
 
@@ -16,7 +16,7 @@
         android:label="@string/app_name"
         android:theme="@style/AppTheme" >
         <activity
-            android:name="com.example.ui.LogoActivity"
+            android:name="com.coderdream.weibo.ui.LogoActivity"
             android:label="@string/app_name" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -25,16 +25,16 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.example.ui.LoginActivity"
+            android:name="com.coderdream.weibo.ui.LoginActivity"
             android:theme="@style/theme_fullScreen" />
         <activity
-            android:name="com.example.ui.AuthActivity"
+            android:name="com.coderdream.weibo.ui.AuthActivity"
             android:theme="@style/theme_fullScreen" />
         <activity
-            android:name="com.example.ui.WebViewActivity"
+            android:name="com.coderdream.weibo.ui.WebViewActivity"
             android:theme="@style/theme_fullScreen" />
 
-        <service android:name="com.example.logic.MainService" />
+        <service android:name="com.coderdream.weibo.logic.MainService" />
     </application>
 
 </manifest>
