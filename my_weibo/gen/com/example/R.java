@@ -50,7 +50,7 @@ public final class R {
         public static final int user_selecte_p=0x7f020016;
     }
     public static final class id {
-        public static final int action_settings=0x7f090007;
+        public static final int action_settings=0x7f090008;
         public static final int btn_add_account=0x7f090001;
         public static final int btn_auth_begin=0x7f090000;
         public static final int btn_login=0x7f090004;
@@ -58,6 +58,7 @@ public final class R {
         public static final int img_logo=0x7f090005;
         public static final int spn_user_list=0x7f090003;
         public static final int txt_result=0x7f090006;
+        public static final int wv_oauth=0x7f090007;
     }
     public static final class layout {
         public static final int auth=0x7f030000;
@@ -65,6 +66,7 @@ public final class R {
         public static final int login=0x7f030002;
         public static final int logo=0x7f030003;
         public static final int main=0x7f030004;
+        public static final int webview=0x7f030005;
     }
     public static final class menu {
         public static final int main=0x7f080000;
