@@ -22,7 +22,12 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="com.example.ui.LoginActivity" />
+        <activity
+            android:name="com.example.ui.LoginActivity"
+            android:theme="@style/theme_fullScreen" />
+        <activity
+            android:name="com.example.ui.AuthActivity"
+            android:theme="@style/theme_fullScreen" />
 
         <service android:name="com.example.logic.MainService" />
     </application>

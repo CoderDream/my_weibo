@@ -6,5 +6,11 @@
     <string name="hello_world">Hello world!</string>
     <string name="login">登录</string>
     <string name="login_status">未登录(Version 1.0.1)</string>
+    <string name="authTip">授权提示</string>
+    <string name="authTipMsg">是否使用您的新浪 微博账号进行授权</string>
+    <string name="auth_url_empty">授权地址为空</string>
+    <string name="get_access_token_ing">正在获取用户授权信息&#8230;&#8230;&#8230;</string>
+    <string name="loading">正在加载&#8230;&#8230;&#8230;</string>
+    <string name="loading_auth_url">正在获取授权地址&#8230;&#8230;&#8230;</string>
 
 </resources>
