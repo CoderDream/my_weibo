@@ -39,8 +39,8 @@
 
         <Button
             android:id="@+id/btn_auth_begin"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
+            android:layout_width="200dp"
+            android:layout_height="100dp"
             android:layout_gravity="center"
             android:layout_marginTop="10dip"
             android:background="@drawable/auth_begin_d"

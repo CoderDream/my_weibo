@@ -9,6 +9,5 @@
 	<classpathentry kind="lib" path="libs/commons-logging-1.1.jar"/>
 	<classpathentry kind="lib" path="libs/jackson-all-1.8.5.jar"/>
 	<classpathentry kind="lib" path="libs/log4j-1.2.16.jar"/>
-	<classpathentry kind="lib" path="libs/weibo4j-oauth2.jar"/>
 	<classpathentry kind="output" path="bin/classes"/>
 </classpath>
